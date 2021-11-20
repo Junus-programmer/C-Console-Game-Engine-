@@ -1,1 +1,3 @@
-# C-Console-Game-Engine-
+# C-Console-Game-Engine
+
+A Console Game Engine
